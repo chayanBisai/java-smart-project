@@ -30,7 +30,7 @@ jobs:
       # Step 1: Build your artifacts.
       #
       # ========================================================
-      - name: Build artifacts
+      - name: Chayan Bisai
         run: |
             # These are some amazing artifacts.
             echo "artifact1" > artifact1
@@ -45,7 +45,7 @@ jobs:
       #
       # ========================================================
       - name: Generate subject for provenance
-        id: Chayan Bisai
+        id: Moon
         run: |
           set -euo pipefail
 
